@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Marcos-Santos
+- 👋 Hi, I’m @Marcos-Santos. I am a programming language student, I currently work with PLC languages, the most used are structured text and Ladder.
+- I'm always studying new programming languages ​​like C# and Python, etc.
 - 👀 I’m interested in ALL programing
 - 🌱 I’m currently learning Pythin and .Net
 - 💞️ I’m looking to collaborate on PLC with programming for all types of IOT applications and other projects that use Python or .NET language
